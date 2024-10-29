@@ -47,6 +47,8 @@
 
   > Rate Limits
   >>> 20 requests every 1 seconds(s)
+
+
   >>> 100 requests every 2 minutes(s)
 
 - 해당 제한을 넘기게되면 호출 에러가 뜨면서 역시나 셀이 터지기에 시간에 잘 유의할 필요성이 있다.
